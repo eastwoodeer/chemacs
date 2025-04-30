@@ -1,3 +1,5 @@
+(require 'core-debug)
+
 (defun chemacs//toggle-gui-elements (&optional on-off)
   "Toggle menu bar, tool bar, scroll bars, and tool tip modes.
 If optional ON-OFF is not specified, then toggle on/off state.
